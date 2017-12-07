@@ -8,7 +8,7 @@ public class DBConnect {
 	private static String dbName = "userdb";
 	private static String driver = "com.mysql.jdbc.Driver";
 	private static String userName = "root"; 
-	private static String password = "feng";
+	private static String password = "";
 	private static Connection conn;
 	
 	public DBConnect(){}
